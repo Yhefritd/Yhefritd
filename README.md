@@ -1,20 +1,15 @@
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%FF2DA44E&size=50&center=true&vCenter=true&height=60&width=600&lines=Hello!+I'm+Yhefritd+%3C3;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=007BFF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hola!+soy+Yhefritd+%3C3;Bienvenido+a+mi+perfil!" alt="Title">
 </div>
 
-###
-
+<!--
 <h3 align="center">AI & Software Engineer | Computer Vision Researcher | Full-Stack & Mobile Architect</h3>
-
-<p align="center">
-  <a href="mailto:stuckersilver@gmail.com"><img src="https://img.shields.io/badge/Email-ff5f5f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/Rosellines"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://discord.com/users/Mikasa_enix"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
+-->
 
 ###
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> SOBRE MI 
 
 
 - :credit_card: My full name is **Yhefritd Huacho Montes** <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="350" align="right"/>
@@ -25,6 +20,13 @@
 - :monocle_face:  I'm interested in programming, video games, and green spaces.
 - :sunglasses: My quote is ***"The pessimist complains about the wind; the optimist hopes it will change; the realist adjusts the sails."***
 - 📫 Reach out to me at: <a href="huachomontes123.1@gmail.com">huachomontes123.1@gmail.com</a>
+
+
+<p align="center">
+  <a href="mailto:stuckersilver@gmail.com"><img src="https://img.shields.io/badge/Email-ff5f5f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/Rosellines"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://discord.com/users/Mikasa_enix"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
 
 
 
