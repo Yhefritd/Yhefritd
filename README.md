@@ -1,10 +1,23 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%FF2DA44E&size=50&center=true&vCenter=true&height=60&width=600&lines=Hello!+I'm+Yhefritd+%3C3;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
-- :credit_card: My full name is **Yhefritd Huacho Montes** <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" align="right"/>
+###
+
+<h3 align="center">AI & Software Engineer | Computer Vision Researcher | Full-Stack & Mobile Architect</h3>
+
+<p align="center">
+  <a href="mailto:stuckersilver@gmail.com"><img src="https://img.shields.io/badge/Email-ff5f5f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/Rosellines"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://discord.com/users/Mikasa_enix"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
+###
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+
+- :credit_card: My full name is **Yhefritd Huacho Montes** <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="350" align="right"/>
 - :school: II am currently a student completing my 4th semester
 - :books: My major is **Software Developer**
 - :earth_asia: I'm living now in **Peru**
@@ -13,38 +26,120 @@
 - :sunglasses: My quote is ***"The pessimist complains about the wind; the optimist hopes it will change; the realist adjusts the sails."***
 - 📫 Reach out to me at: <a href="huachomontes123.1@gmail.com">huachomontes123.1@gmail.com</a>
 
-### ⚙️ &nbsp;GitHub Analytics
+
+
+<h2 align="center">⚡ My Tech Stack <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+<div align="center">
+  <!-- Languages & Core -->
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo" />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo" />
+  
+  <!-- Frontend & Mobile Frameworks -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo" />
+
+  <!-- Backend & DevOps -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo" />
+
+
+
+  <!-- Cloud & Databases -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
+
+  
+  <!-- Tools & Other -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
+ 
+</div>
+
+
+<!-- ---------------------------------------->
+## Random Developer Quote 💡 <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+
 
 <p align="center">
-  <a href="https://github.com/Yhefritd">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yhefritd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-</p> 
+  <em>Building cool things, one commit at a time.</em>
+</p>
 
-## My Skills Include
-
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-</span>
-
-
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</span>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Yhefritd/Yhefritd/output/bomberman-contribution-graph-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Yhefritd/Yhefritd/output/bomberman-contribution-graph.svg">
+    <img
+      alt="Bomberman Contribution Graph"
+      src="https://raw.githubusercontent.com/Yhefritd/Yhefritd/output/bomberman-contribution-graph.svg"
+      width="100%">
+  </picture>
+</p>
 
 
-## Spotify Playing 🎧
 
-[![Spotify](https://img.shields.io/badge/Spotify-Amor%20Loco%20%7C%20Emmanuel%20Horvilleur-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0a61fF25YF0C12wF6X93dY)
+
+
+
+
+
+
+
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <div align="center">
+    <a href="https://github.com/Yhefritd">
+      <img
+        alt="Yhefritd GitHub Stats"
+        src="https://github-readme-stats.vercel.app/api?username=Yhefritd&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
+        height="192px"
+      />
+    </a>
+    <a href="https://github.com/Yhefritd">
+      <img
+        alt="Yhefritd Top Languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yhefritd&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
+        height="192px"
+      />
+    </a>
+
+  </div>
+
+
+
 
